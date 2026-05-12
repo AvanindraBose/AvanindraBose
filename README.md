@@ -89,11 +89,11 @@ What drives me is the challenge of taking ML from experiment to production — b
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.shion.dev/api?username=AvanindraBose&theme=dark&hide_border=true&include_all_commits=true&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AvanindraBose&theme=dark&hide_border=true&include_all_commits=true&count_private=true&show_icons=true)
 
 ![Streak](https://streak-stats.demolab.com/?user=AvanindraBose&theme=dark&hide_border=true)
 
-![Top Languages](https://github-readme-stats.shion.dev/api/top-langs/?username=AvanindraBose&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AvanindraBose&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 </div>
 
@@ -103,7 +103,7 @@ What drives me is the challenge of taking ML from experiment to production — b
 
 <div align="center">
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=AvanindraBose&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=7)
+![Trophies](https://github-profile-trophy.vercel.app/?username=AvanindraBose&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=4&title=Commits,Repositories,Experience,PullRequest,Followers)
 
 </div>
 
@@ -114,6 +114,5 @@ What drives me is the challenge of taking ML from experiment to production — b
 *Always building. Always learning. Always shipping.*
 
 </div>
-
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
