@@ -89,11 +89,11 @@ What drives me is the challenge of taking ML from experiment to production — b
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AvanindraBose&theme=dark&hide_border=true&include_all_commits=true&count_private=true&show_icons=true)
+![GitHub Stats](https://github-readme-stats-salesp07.vercel.app/api?username=AvanindraBose&theme=dark&hide_border=true&include_all_commits=true&count_private=true&show_icons=true)
 
 ![Streak](https://streak-stats.demolab.com/?user=AvanindraBose&theme=dark&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AvanindraBose&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+![Top Languages](https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=AvanindraBose&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 </div>
 
