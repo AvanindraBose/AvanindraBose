@@ -99,16 +99,6 @@ What drives me is the challenge of taking ML from experiment to production — b
 
 ---
 
-## Trophies
-
-<div align="center">
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=AvanindraBose&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=4&title=Commits,Repositories,Experience,PullRequest,Followers)
-
-</div>
-
----
-
 <div align="center">
 
 *Always building. Always learning. Always shipping.*
