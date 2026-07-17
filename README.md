@@ -19,7 +19,7 @@ I'm a data professional at **Tredence** working across the full data stack from 
 
 My engineering side lives in **ML pipelines, experiment tracking with MLflow**, and serving models via **FastAPI**. I'm comfortable operating across the infrastructure layer too such as Docker, CI/CD, AWS, Redis, and microservices-based architectures are part of my daily toolkit.
 
-What drives me is the challenge of taking ML from experiment to production — building systems that are reliable, observable, and scalable. I'm currently expanding into **Agentic AI** and **retrieval-augmented generation (RAG)** pipelines, and I approach every new domain the same way: learn it deeply, build something real with it, then push further.
+What drives me is the challenge of taking ML from experiment to production — building systems that are reliable, observable, and scalable. I'm currently expanding into **Agentic AI** and **retrieval-augmented generation (RAG)** pipelines, and I approach every new domain the same way: learn it deeply, build something real with it, then push further .
 
 ---
 
