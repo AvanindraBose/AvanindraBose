@@ -1,7 +1,7 @@
 <div align="center">
 
 # Avanindra Bose
-### Data Engineer · ML Systems · Analytics
+### Data Engineer · ML · Analytics
 
 *Building production-grade data systems at the intersection of engineering and intelligence*
 
