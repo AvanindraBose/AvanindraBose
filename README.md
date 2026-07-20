@@ -16,7 +16,7 @@
 
 ## About
 
-I'm a data professional at **Tredence** working across the full data stack from writing efficient SQL and building Python-based data workflows to designing Power BI dashboards that directly inform business decisions.
+I'm a data professional at **Tredence** working across the full data stack from writing efficient SQL  and building Python-based data workflows to designing Power BI dashboards that directly inform business decisions.
 
 My engineering side lives in **ML pipelines, experiment tracking with MLflow**, and serving models via **FastAPI**. I'm comfortable operating across the infrastructure layer too such as Docker, CI/CD, AWS, Redis, and microservices-based architectures are part of my daily toolkit.
 
